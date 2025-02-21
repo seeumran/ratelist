@@ -1,4 +1,4 @@
 # ratelist
 rate list manager 
 <br>
-Author - ramesh
+Author - ramesh maharjan
